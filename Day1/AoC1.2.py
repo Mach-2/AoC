@@ -3,7 +3,7 @@
 # Read data into list
 depths = []
 inc = 0
-with open('Day1.txt', 'r') as file:
+with open('input.txt', 'r') as file:
     for line in file:
         depths.append(int(line.rstrip()))
 

@@ -8,7 +8,7 @@ prev = 0
 inc = 0
 
 # begin reading in lines from file
-file = open("Day1.txt",'r')
+file = open("input.txt", 'r')
 
 # Read first line
 curr = file.readline()
